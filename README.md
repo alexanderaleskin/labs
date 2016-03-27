@@ -1,2 +1,3 @@
 # labs
-My first repository on GitHub
+
+Here the examples of my coding in Python and C++
